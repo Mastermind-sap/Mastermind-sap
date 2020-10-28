@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any repo.
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mastermind-sap&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mastermind-sap&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
