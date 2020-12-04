@@ -27,3 +27,19 @@ Here are some ideas to get you started:
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mastermind-sap&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+#### Badges:
+
+<a href="https://dev.to/mastermindsap">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Saptarshi Adhikari's DEV Profile" height="100" width="100">
+</a>
+
+---
+
+<a href="https://hacktoberfest.digitalocean.com">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="Hacktober Fest 2020" height="100" width="100">
+</a>
+
+---
