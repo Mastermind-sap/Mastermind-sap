@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a Restaurant Management System.
+- 🔭 I’m currently working on a Joker Discord Bot.
 - 🌱 I’m currently learning Python, Java and Batch script.
 - 👯 I’m looking to collaborate on any repo.
 
