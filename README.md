@@ -18,28 +18,44 @@ Here are some ideas to get you started:
 
 ---
 
+<details>
+<summary><b> 🏆 Github Profile Trophies </b></summary>
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mastermind-sap&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
+</details>
+
 ---
+
+<details>
+<summary><b> 📈 Github Stats </b></summary>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mastermind-sap&show_icons=true&theme=radical)
 
+</details>
+
 ---
+
+<details>
+<summary><b> 💻 Top Languages </b></summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mastermind-sap&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+</details>
+
 ---
 
-#### Badges:
+<details>
+<summary><b> 🎊 Badges </b></summary>
 
 <a href="https://dev.to/mastermindsap">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Saptarshi Adhikari's DEV Profile" height="100" width="100">
 </a>
 
----
-
 <a href="https://hacktoberfest.digitalocean.com">
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="Hacktober Fest 2020" height="100" width="100">
 </a>
+
+</details>
 
 ---
