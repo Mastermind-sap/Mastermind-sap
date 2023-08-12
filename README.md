@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a Joker Discord Bot.
-- 🌱 I’m currently learning Python, Java and Batch script.
+- 😴 I’m currently sleeping.
+- 🌱 I’m am learning Flutter and will start learning React and NodeJS.
 - 👯 I’m looking to collaborate on any repo.
 
 ---
