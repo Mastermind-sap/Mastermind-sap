@@ -56,6 +56,8 @@ Here are some ideas to get you started:
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="Hacktober Fest 2020" height="100" width="100">
 </a>
 
+[![An image of @mastermindsap's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mastermindsap)](https://holopin.io/@mastermindsap)
+
 </details>
 
 ---
