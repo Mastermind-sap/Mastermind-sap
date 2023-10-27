@@ -61,3 +61,7 @@ Here are some ideas to get you started:
 </details>
 
 ---
+
+[![](https://visitcount.itsvg.in/api?id=Mastermind-sap&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+
+---
