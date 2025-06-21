@@ -59,9 +59,3 @@ Here are some ideas to get you started:
 [![An image of @mastermindsap's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mastermindsap)](https://holopin.io/@mastermindsap)
 
 </details>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Mastermind-sap&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
-
----
